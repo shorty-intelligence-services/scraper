@@ -1,0 +1,19 @@
+{
+  "name": "sis_scraper",
+  "version": "0.0.1",
+  "description": "News Scraper",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shorty-intelligence-services/scraper.git"
+  },
+  "author": "SIS",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shorty-intelligence-services/scraper/issues"
+  },
+  "homepage": "https://github.com/shorty-intelligence-services/scraper#readme"
+}
